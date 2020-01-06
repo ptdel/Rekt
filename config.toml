@@ -9,8 +9,7 @@ check_types = [ "detect_labels", "detect_moderation_labels" ]
 file_types = [ ".mp4", ".mp3", ".torrent", ".bad", ".sad" ]
 
 [discord]
-reaction_emoji = "<:im_cooming:654123123188170791>"
-auth_token = "NjYyMDAyMjY0MzQ4NTU3MzQ4.Xgzq3A.TFh5kg0_W8oHVjztyROBMf2OL_0"
+auth_token = ""
 
 [piracy]
 
