@@ -1,0 +1,3 @@
+2020-01-06 01:34:20,621 root         INFO     test
+2020-01-06 01:34:20,628 root         WARNING  test
+2020-01-06 01:34:20,632 root         DEBUG    test

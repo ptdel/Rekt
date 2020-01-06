@@ -1,0 +1,2 @@
+[run]
+omit = Rekt/__main__.py, Rekt/Logging.py
